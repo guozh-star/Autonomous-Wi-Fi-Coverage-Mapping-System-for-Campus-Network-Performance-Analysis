@@ -32,6 +32,8 @@ Although the current implementation does not yet include full deployment on an a
 ---
 
 ## Project Structure
+
+```bash
 Autonomous_Wi-Fi_Coverage/
 ├── data/
 │   ├── processed/
