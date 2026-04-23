@@ -1,0 +1,18 @@
+WiFi Coverage Analysis Report
+========================================
+SSID Filter: WKU-VPN
+Total Sampling Points: 25
+Average Signal: 75.58
+Weak Coverage Count (< 60): 1
+Blind Spot Count (< 40): 0
+Unstable Area Count (std > 8): 0
+Strongest AP: WKU-VPN / 54:8a:ba:64:b3:2e / avg=64.67
+Weakest Area: (1, 5) / signal=55.7
+Most Unstable Area: (4, 4) / std=6.28
+
+Coverage Level Statistics:
+coverage_level
+Weak         34
+Fair         21
+Good         12
+Excellent     1

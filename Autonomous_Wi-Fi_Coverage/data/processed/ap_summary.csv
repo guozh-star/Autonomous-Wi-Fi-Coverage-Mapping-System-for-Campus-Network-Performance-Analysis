@@ -1,0 +1,4 @@
+﻿ssid,bssid,point_count,avg_signal,min_signal,max_signal,avg_std,total_scan_count,channel,radio_type
+WKU-VPN,54:8a:ba:64:b3:2e,22,64.67,42.8,91.0,4.32,106,52,802.11ac
+WKU-VPN,54:8a:ba:64:76:c1,22,61.32,42.3,86.0,4.11,107,6,802.11n
+WKU-VPN,52:e3:5a:ab:fd:2c,24,59.6,40.9,78.7,3.91,120,11,802.11ac
